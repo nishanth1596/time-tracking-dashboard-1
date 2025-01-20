@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/desktop.png)
 
 ### Links
 
 - Solution URL: [Solution code](https://github.com/Adnan0-IM/time-tracking-dashboard)
-- Live Site URL: [Live Demo](https://jovial-dasik-0fdaad.netlify.app/)
+- Live Site URL: [Live Demo](https://darling-begonia-bdc98a.netlify.app/)
 
 ## My process
 
