@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution code](https://github.com/Adnan0-IM/newsletter-sign-up-with-success-message)
+- Solution URL: [Solution code](https://github.com/Adnan0-IM/time-tracking-dashboard)
 - Live Site URL: [Live Demo](https://jovial-dasik-0fdaad.netlify.app/)
 
 ## My process
