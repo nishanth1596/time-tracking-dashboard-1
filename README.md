@@ -41,5 +41,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JSON Server
 - [React](https://reactjs.org/) - JS library
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
