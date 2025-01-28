@@ -41,7 +41,7 @@ const Container = () => {
   return (
     <>
       
-      <section className="bg-neutral-Very-dark-blue w-full  grid place-content-center min-h-screen">
+      <section className="bg-neutral-Very-dark-blue w-full  grid place-content-center min-h-screen font-rubik">
         <article className="grid  gap-8 p-8 sm:grid-cols-2 md:grid-cols-4 md:grid-rows-2 max-w-5xl">
           <TopCard
             activeButton={activeButton}

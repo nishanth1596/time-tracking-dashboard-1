@@ -22,7 +22,9 @@ export default {
       },
     },
     extend: {
-      fontFamily: {},
+      fontFamily: {
+        rubik: ["Rubik", "serif"],
+      },
       fontSize: {
         title: "18px",
       },
@@ -32,8 +34,8 @@ export default {
         bold: 500,
       },
       height: {
-        accent: "155px"
-      }
+        accent: "155px",
+      },
     },
   },
   plugins: [],
