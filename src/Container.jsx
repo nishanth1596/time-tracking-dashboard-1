@@ -13,6 +13,7 @@ const Container = () => {
     previous: "weekly",
   });
 
+  // const url = "http://localhost:3000/items"
   const url = "https://json-server-vercel-pi-eight.vercel.app/items";
 
   useEffect(() => {
@@ -42,7 +43,7 @@ const Container = () => {
     <>
       
       <section className="bg-neutral-Very-dark-blue w-full  grid place-content-center min-h-screen font-rubik">
-        <article className="grid  gap-8 p-8 sm:grid-cols-2 md:grid-cols-4 md:grid-rows-2 max-w-5xl">
+        <article className="grid  gap-8 p-4 sm:grid-cols-2 md:grid-cols-4 md:grid-rows-2 max-w-5xl">
           <TopCard
             activeButton={activeButton}
             setActiveButton={setActiveButton}

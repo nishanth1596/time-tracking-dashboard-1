@@ -24,7 +24,7 @@ const Card = ({ items, itemTimeFrame, activeButton }) => {
         return (
           <div
             key={crypto.randomUUID()}
-            className={`rounded-xl ${bgColors[index]} relative h-accent md:h-auto`}
+            className={`rounded-xl ${bgColors[index]} relative h-accent md:h-[11rem] `}
           >
             <div className="absolute top-0 right-5 ">
               <img
