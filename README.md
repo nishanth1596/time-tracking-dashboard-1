@@ -1,6 +1,6 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,7 +12,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-
+    - [Improvements and Updates](#improvements-and-updates)
 
 ## Overview
 
@@ -44,3 +44,24 @@ Users should be able to:
 - JSON Server
 - [React](https://reactjs.org/) - JS library
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
+
+### Improvements and Updates
+
+- **Improved structure for accessibility and SEO:**  
+  The app now includes semantic elements like `<header>`, `<main>`, and `<footer>` to improve both accessibility and SEO. This ensures that screen readers and search engines can better interpret the content of the app.
+
+- **Animated footer:**  
+  The footer now has a subtle animation (`animate-pulse`) to create a smooth, visually appealing experience when the user scrolls to the bottom of the page.
+
+---
+
+### Key Changes to the Code:
+
+- Added a **`<header>`** element with a **`<h1>`** to improve accessibility.
+- Wrapped the core content in a **`<main>`** element for better document structure.
+- Implemented a **`<footer>`** element with credits and attribution, along with an animation for visual appeal.
+
+## Credits
+
+- **Contributed by** [Nishanth](https://github.com/nishanth1596)
+- **Original project by** [Adnan Iliyasu Muhammad](https://github.com/Adnan0-IM/time-tracking-dashboard)
